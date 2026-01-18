@@ -14,7 +14,7 @@ KiwiSDR & OpenWebRX provide global reception capabilities via their web interfac
 - **Scanner Mode:** Automatically cycles through a list of stations or presets at a set interval.
 - **Global Map:** Native MapKit integration to visually explore the station network. Filtering available to isolate specific networks (KiwiSDR/OpenWebRX) or regions (e.g., "USA Only") on the map. 
 - **Live Signal Metrics:** Real-time SNR (Signal-to-Noise) sorting to instantly identify the strongest receivers in the list.
-- **Offline Frequency Library:** A searchable, local database of 20,000+ global frequencies that works without an internet connection.
+- **Offline Frequency Library:** A searchable, local database of 10,000+ global frequencies.
 - **Station Logging:** Integrated database for saving frequencies & station details.
 - **Quick Presets:** Optimized interface for switching bands on a touch screen.
 
@@ -35,7 +35,8 @@ iOS 16+, iPhone/iPad/macOS (Apple Silicon)
 
 ## Status
 
-**Current Version:** Alpha / Dev Build  
+**Current Version:** Beta
+
 **TestFlight:** Coming February 2026
 
 ## Acknowledgments
@@ -48,7 +49,10 @@ Special thanks to these developers for building the incredible platforms that ma
 ---
 
 ### Screenshots
-<img width="645" height="1398" alt="IMG_5147" src="https://github.com/user-attachments/assets/4d2248e7-7d69-4982-bede-f0260d8957b6" />
-<img width="645" height="1398" alt="IMG_5148" src="https://github.com/user-attachments/assets/af75c62c-e4ae-4ea0-bc26-402aa04c2b49" />
-<img width="645" height="1398" alt="IMG_5150" src="https://github.com/user-attachments/assets/b51c84c9-1fd0-4e05-9ec0-e97db3e75945" />
-<img width="645" height="1398" alt="IMG_5153" src="https://github.com/user-attachments/assets/cf9b8af6-51e9-462d-9ae4-1ea15fcb23b2" /><img width="645" height="1398" alt="IMG_4959" src="https://github.com/user-attachments/assets/54b528fb-f77e-4bc3-b630-e47084e70a6d" />
+<img width="645" height="1398" alt="IMG_5508" src="https://github.com/user-attachments/assets/fa9d9580-fdce-43a7-80ac-182b5be507cd" />
+<img width="645" height="1398" alt="IMG_5509" src="https://github.com/user-attachments/assets/59dc4b97-f3b1-4662-bf1f-fdb80e639939" />
+<img width="645" height="1398" alt="IMG_5513" src="https://github.com/user-attachments/assets/e9359d9b-8522-4c63-87a3-7e8e3ac53b2e" />
+<img width="645" height="1398" alt="IMG_5514" src="https://github.com/user-attachments/assets/978bf59f-9144-46f7-b872-dfb699fe5511" />
+<img width="645" height="1398" alt="IMG_5515" src="https://github.com/user-attachments/assets/f57bf2bf-a8c6-4134-afc9-464e45d3d7a8" />
+
+
