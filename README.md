@@ -4,15 +4,15 @@
 
 **[Click here to join the TestFlight Beta Waitlist](https://forms.gle/uC7W8VTDodvbsQ21A)**
 
-A native iOS command center for the KiwiSDR & OpenWebRX networks.
+A native iOS command center for the KiwiSDR, OpenWebRX, and WebSDR networks.
 
-KiwiSDR & OpenWebRX provide global reception capabilities via their web interfaces. Echo builds upon this by wrapping the reliable web stream in a native iOS environment, enabling features that are only possible with a dedicated app.
+KiwiSD, OpenWebRX, and WebSDR provide global reception capabilities via their web interfaces. Echo builds upon this by wrapping the reliable web stream in a native iOS environment, enabling features that are only possible with a dedicated app.
 
 ## Features
 
-- **Audio Engine Passthrough:** Uses the standard KiwiSDR/OpenWebRX web client for the waterfall & signal processing. This ensures 100% compatibility with all server decoding modes & extensions.
+- **Audio Engine Passthrough:** Uses the standard KiwiSDR/OpenWebRX/WebSDR web client for the waterfall & signal processing. This ensures 100% compatibility with all server decoding modes & extensions.
 - **Scanner Mode:** Automatically cycles through a list of stations or presets at a set interval.
-- **Global Map:** Native MapKit integration to visually explore the station network. Filtering available to isolate specific networks (KiwiSDR/OpenWebRX) or regions (e.g., "USA Only") on the map. 
+- **Global Map:** Native MapKit integration to visually explore the station network. Filtering available to isolate specific networks (KiwiSDR/OpenWebRX/WebSDR) or regions (e.g., "USA Only") on the map. 
 - **Live Signal Metrics:** Real-time SNR (Signal-to-Noise) sorting to instantly identify the strongest receivers in the list.
 - **Offline Frequency Library:** A searchable, local database of 10,000+ global frequencies.
 - **Station Logging:** Integrated database for saving frequencies & station details.
@@ -43,6 +43,7 @@ iOS 16+, iPhone/iPad/macOS (Apple Silicon)
 Echo is an independent client and is not officially affiliated with the KiwiSDR or OpenWebRX projects.
 * **KiwiSDR:** Created by John Seamons. Key Contributor: Christoph Mayer (Author of many core Kiwi features).
 * **OpenWebRX:** Originally created by András Retzler, with ongoing development by Jakob Ketterl and the community.
+* **WebSDR:** Created by Pieter-Tjerk de Boer.
 
 Special thanks to these developers for building the incredible platforms that make this app possible.
 
