@@ -4,13 +4,13 @@
 
 **[Click here to join the TestFlight Beta Waitlist](https://forms.gle/uC7W8VTDodvbsQ21A)**
 
-A native iOS command center for the KiwiSDR, OpenWebRX, WebSDR, and FMDX networks.
+A native iOS command center for the KiwiSDR, OpenWebRX, WebSDR, and FM-DX networks.
 
-KiwiSDR, OpenWebRX, WebSDR, and FMDX provide global reception capabilities via their web interfaces. Echo builds upon this by wrapping the reliable web stream in a native iOS environment, enabling features that are only possible with a dedicated app.
+KiwiSDR, OpenWebRX, WebSDR, and FM-DX provide global reception capabilities via their web interfaces. Echo builds upon this by wrapping the reliable web stream in a native iOS environment, enabling features that are only possible with a dedicated app.
 
 ## Features
 
-- **Audio Engine Passthrough:** Uses the standard KiwiSDR/OpenWebRX/WebSDR/FMDX web client for the waterfall & signal processing. This ensures 100% compatibility with all server decoding modes & extensions.
+- **Audio Engine Passthrough:** Uses the standard KiwiSDR/OpenWebRX/WebSDR/FM-DX web client for the waterfall & signal processing. This ensures 100% compatibility with all server decoding modes & extensions.
 - **Scanner Mode:** Automatically cycles through a list of stations or presets at a set interval.
 - **Global Map:** Native MapKit integration to visually explore the station network. Filtering available to isolate specific networks (KiwiSDR/OpenWebRX/WebSDR/FMDX) or regions (e.g., "USA Only") on the map. 
 - **Live Signal Metrics:** Real-time SNR (Signal-to-Noise) sorting to instantly identify the strongest receivers in the list.
@@ -44,7 +44,7 @@ Echo is an independent client and is not officially affiliated with the KiwiSDR,
 * **KiwiSDR:** Created by John Seamons. Key Contributor: Christoph Mayer (Author of many core Kiwi features).
 * **OpenWebRX:** Originally created by András Retzler, with ongoing development by Jakob Ketterl and the community.
 * **WebSDR:** Created by Pieter-Tjerk de Boer.
-* **FMDX:** Created by Marek Farkaš
+* **FM-DX:** Created by Marek Farkaš
 
 Special thanks to these developers for building the incredible platforms that make this app possible.
 
