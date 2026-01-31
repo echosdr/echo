@@ -6,7 +6,7 @@
 
 A native iOS command center for the KiwiSDR, OpenWebRX, and WebSDR networks.
 
-KiwiSD, OpenWebRX, and WebSDR provide global reception capabilities via their web interfaces. Echo builds upon this by wrapping the reliable web stream in a native iOS environment, enabling features that are only possible with a dedicated app.
+KiwiSDR, OpenWebRX, and WebSDR provide global reception capabilities via their web interfaces. Echo builds upon this by wrapping the reliable web stream in a native iOS environment, enabling features that are only possible with a dedicated app.
 
 ## Features
 
