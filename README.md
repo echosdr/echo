@@ -1,7 +1,5 @@
 # Echo
 
-[![Support Echo on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/EchoSDR)
-
 **The universal radio receiver for iOS.** 
 
 > Listen to anything, from anywhere. Echo connects you to 600+ community-hosted radio receivers spanning every continent. Tune into shortwave broadcasts from Asia, aviation communications over the Atlantic, mysterious numbers stations, or distant FM stations from hundreds of miles away, all from your iPhone. No antenna required.
