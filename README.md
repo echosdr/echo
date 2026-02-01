@@ -44,7 +44,7 @@ Echo is an independent client and is not officially affiliated with the KiwiSDR,
 * **KiwiSDR:** Created by John Seamons. Key Contributor: Christoph Mayer (Author of many core Kiwi features).
 * **OpenWebRX:** Originally created by András Retzler, with ongoing development by Jakob Ketterl and the community.
 * **WebSDR:** Created by Pieter-Tjerk de Boer.
-* **FM-DX:** Created by Marek Farkaš
+* **FM-DX:** Created by Marek Farkaš.
 
 Special thanks to these developers for building the incredible platforms that make this app possible.
 
