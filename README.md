@@ -12,7 +12,7 @@ KiwiSDR, OpenWebRX, WebSDR, and FM-DX provide global reception capabilities via 
 
 - **Audio Engine Passthrough:** Uses the standard KiwiSDR/OpenWebRX/WebSDR/FM-DX web client for the waterfall & signal processing. This ensures 100% compatibility with all server decoding modes & extensions.
 - **Scanner Mode:** Automatically cycles through a list of stations or presets at a set interval.
-- **Global Map:** Native MapKit integration to visually explore the station network. Filtering available to isolate specific networks (KiwiSDR/OpenWebRX/WebSDR/FMDX) or regions (e.g., "USA Only") on the map. 
+- **Global Map:** Native MapKit integration to visually explore the station network. Filtering available to isolate specific networks (KiwiSDR/OpenWebRX/WebSDR/FM-DX) or regions (e.g., "USA Only") on the map. 
 - **Live Signal Metrics:** Real-time SNR (Signal-to-Noise) sorting to instantly identify the strongest receivers in the list.
 - **Offline Frequency Library:** A searchable, local database of 10,000+ global frequencies.
 - **Station Logging:** Integrated database for saving frequencies & station details.
