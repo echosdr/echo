@@ -1,7 +1,6 @@
 # Echo
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/EchoSDR)
-
+[![Support Echo on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/EchoSDR)
 
 **The universal radio receiver for iOS.** 
 
