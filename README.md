@@ -8,8 +8,8 @@
 
 > **Featured on [RTL-SDR.com](https://www.rtl-sdr.com/echo-a-native-ios-client-for-kiwisdr-openwebrx/)** — _"Really cool looking app"_
 
-### ✈️ Beta Access
-**Status:** 🟡 Free Waitlist is **CLOSED**.
+### Beta Access
+**Status:** Free Waitlist is **CLOSED**.
 
 You can still get **Guaranteed Priority Access** (and 3 months of Pro) by backing the Launch Fund:
 
