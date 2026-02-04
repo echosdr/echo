@@ -40,7 +40,7 @@ KiwiSDR, OpenWebRX, WebSDR, and FM-DX provide global reception capabilities via 
 
 ## Requirements
 
-iOS 16+, iPhone/iPad/macOS (Apple Silicon)
+iOS 17+, iPhone/iPad/macOS (Apple Silicon)
 
 ## Status
 
