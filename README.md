@@ -20,6 +20,7 @@ KiwiSDR, OpenWebRX, WebSDR, and FM-DX provide global reception capabilities via 
 ## Features
 
 - **Audio Engine Passthrough:** Uses the standard KiwiSDR/OpenWebRX/WebSDR/FM-DX web client for the waterfall & signal processing. This ensures 100% compatibility with all server decoding modes & extensions.
+- **Intelligent Profile Switching:** When tuning outside an OpenWebRX server's current frequency range, Echo automatically switches to the correct profile and displays visual "Switching Band..." feedback during the transition.
 - **Scanner Mode:** Automatically cycles through a list of stations or presets at a set interval.
 - **Global Map:** Native MapKit integration to visually explore the station network. Filtering available to isolate specific networks (KiwiSDR/OpenWebRX/WebSDR/FM-DX) or regions (e.g., "USA Only") on the map. 
 - **Server Search:** Instantly search 2,000+ SDR receivers by name or location with dynamic result counts.
