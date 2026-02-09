@@ -1,6 +1,6 @@
 # Privacy Policy for Echo
 
-**Last Updated:** January 31st, 2026
+**Last Updated:** February 8th, 2026
 
 I (Mark Garrison Jr.) built **Echo** to listen to radio signals, not to listen to you.
 
@@ -12,10 +12,10 @@ I do not know who you are, how you use the app, or what stations you listen to.
 - **No Ad Networks:** There are no advertisements in the app, and no data is sent to ad brokers.
 
 ## 2. Your Data is Yours
-All your Favorites, History, Recordings, and settings are stored locally on your device.
+All your Favorites, History, and settings are stored locally on your device.
 - **Local Only:** Your data never leaves your device. There is no cloud backup, server sync, or remote storage of any kind.
-- **Data Deletion:** Deleting the app from your device instantly removes all local data, including history, favorites, and recordings.
-- **Coming Soon**: A future update may add optional iCloud sync for favorites and settings. If enabled, that data would be stored in your personal, encrypted iCloud container—never on Echo servers. You will always be able to keep everything local-only.
+- **Data Deletion:** Deleting the app from your device instantly removes all local data, including history and favorites.
+- **Coming Soon**: A future update may add optional iCloud sync for favorites and settings. If enabled, that data would be stored in your personal, encrypted iCloud container—never on Echo servers. You will always be able to keep everything local-only.
 
 ## 3. Connections to Radio Servers
 When you connect to a KiwiSDR or OpenWebRX or WebSDR or FM-DX server, your device makes a direct network connection to that server.
@@ -26,11 +26,6 @@ When you connect to a KiwiSDR or OpenWebRX or WebSDR or FM-DX server, your devic
 Echo may ask for your location to show you the distance to radio servers.
 - **On-Device Only:** Your location is processed instantly on your device to calculate distance. It is never saved to a database, never sent to a server, and never shared with anyone.
 
-## 5. Microphone & Speech Recognition
-Echo may request access to your microphone and speech recognition.
-- **Microphone:** Used to process audio from the SDR stream for visualization and optional recording. Recordings are saved locally on your device and are never uploaded anywhere.
-- **Speech Recognition:** If you enable transcription, Echo uses Apple's on-device speech recognition to generate live transcripts. The audio and transcripts stay on your device.
-
-## 6. Contact Me
+## 5. Contact Me
 If you have any questions about this policy or the app, please email me directly:
 **mark@echosdr.com**
