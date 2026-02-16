@@ -50,7 +50,7 @@ iOS 17+, iPhone/iPad/macOS (Apple Silicon)
 
 **Current Version:** Beta
 
-**TestFlight:** Coming February 2026
+**TestFlight:** Beta Ongoing
 
 ## Acknowledgments
 Echo is an independent client and is not officially affiliated with the KiwiSDR, OpenWebRX, WebSDR, or FMDX projects.
