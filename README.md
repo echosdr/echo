@@ -9,9 +9,9 @@
 ### Beta Access
 **Status:** Free Waitlist is **CLOSED**.
 
-You can still get **Guaranteed Priority Access** (and 3 months of Pro) by backing the Launch Fund:
+You can secure a spot in the beta by supporting the Launch Fund:
 
-[![Join Priority Waitlist](https://img.shields.io/badge/Join_Priority_Waitlist-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/EchoSDR)
+[![Get Beta Access](https://img.shields.io/badge/Get_Beta_Access-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/EchoSDR)
 
 A native iOS command center for the KiwiSDR, OpenWebRX, WebSDR, and FM-DX networks.
 
