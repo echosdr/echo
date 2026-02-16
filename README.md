@@ -7,9 +7,10 @@
 > **Featured on [RTL-SDR.com](https://www.rtl-sdr.com/echo-a-native-ios-client-for-kiwisdr-openwebrx/)** — _"Really cool looking app"_
 
 ### Beta Access
-**Status:** Free Waitlist is **CLOSED**.
+**Status:** The TestFlight Beta is **LIVE**.
 
-You can secure a spot in the beta by supporting the Launch Fund:
+* **Joined the waitlist?** All invites have been sent. Check your inbox!
+* **Missed the list?** The free waitlist is now **closed**. You can still get immediate access to the beta by supporting the project:
 
 [![Get Beta Access](https://img.shields.io/badge/Get_Beta_Access-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/EchoSDR)
 
