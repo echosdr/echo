@@ -20,6 +20,7 @@ KiwiSDR, OpenWebRX, WebSDR, and FM-DX provide global reception capabilities via 
 
 ## Features
 
+- **Background Audio:** Maintains connection & audio playback even when the device is locked or multitasking.
 - **Audio Engine Passthrough:** Uses the standard KiwiSDR/OpenWebRX/WebSDR/FM-DX web client for the waterfall & signal processing. This ensures 100% compatibility with all server decoding modes & extensions.
 - **Intelligent Profile Switching:** When tuning outside an OpenWebRX server's current frequency range, Echo automatically switches to the correct profile and displays visual "Switching Band..." feedback during the transition.
 - **Scanner Mode:** Automatically cycles through a list of stations or presets at a set interval.
@@ -32,7 +33,6 @@ KiwiSDR, OpenWebRX, WebSDR, and FM-DX provide global reception capabilities via 
 - **Station Logging:** Integrated database for saving your favorite frequencies & station details.
 
 ## Roadmap (Coming Soon)
-- **Background Audio:** Maintains connection & audio playback even when the device is locked or multitasking.
 - **Smart Interpreter:** Live speech-to-text transcription and real-time language translation. 
 - **Smart Recording:** One-tap audio capture with built-in speech-to-text transcription/translation to automatically document and identify station content. 
 
