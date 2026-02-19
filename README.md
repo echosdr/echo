@@ -14,7 +14,7 @@
 
 [![Get Beta Access](https://img.shields.io/badge/Get_Beta_Access-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/EchoSDR)
 
-A native iOS command center for the KiwiSDR, OpenWebRX, WebSDR, and FM-DX networks.
+## A native iOS command center for the KiwiSDR, OpenWebRX, WebSDR, and FM-DX networks.
 
 KiwiSDR, OpenWebRX, WebSDR, and FM-DX provide global reception capabilities via their web interfaces. Echo builds upon this by wrapping the reliable web stream in a native iOS environment, enabling features that are only possible with a dedicated app.
 
