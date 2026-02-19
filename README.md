@@ -34,7 +34,8 @@
 
 ## Technical Implementation
 
-- **UI/Logic:** 100% Native SwiftUI (Maps, Database, Settings, Transcription).
+- **Native UI and Mapping:** 100% SwiftUI interface paired with a highly optimized MapKit clustering engine, capable of rendering 2000+ global server nodes smoothly without the lag of traditional web wrappers.
+- **Custom Audio Bridge:** A specialized background audio implementation that intercepts and processes complex SDR streams, enabling true lock-screen controls and uninterrupted iOS background playback.
 - **Privacy:** Zero tracking. No analytics, no proprietary servers, no Ad IDs. All database entries (favorites/logs) are stored locally on-device or in your personal, encrypted iCloud container.
 
 ## Requirements
