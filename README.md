@@ -17,7 +17,7 @@
 ## Features
 
 - **Background Audio:** Maintains connection & audio playback even when the device is locked or multitasking.
-- **Audio Engine Passthrough:** Uses the standard KiwiSDR/OpenWebRX/WebSDR/FM-DX web client for the waterfall & signal processing. This ensures 100% compatibility with all server decoding modes & extensions.
+- **Audio Engine Passthrough:** Echo interfaces directly with the core KiwiSDR, OpenWebRX, WebSDR, and FM-DX signal processors for waterfall rendering and audio decoding. This ensures 100% compatibility with all server-side modes, plugins, and extensions.
 - **Intelligent Profile Switching:** When tuning outside an OpenWebRX server's current frequency range, Echo automatically switches to the correct profile and displays visual "Switching Band..." feedback during the transition.
 - **Scanner Mode:** Automatically cycles through a list of stations or presets at a set interval.
 - **Global Map:** Native MapKit integration to visually explore the station network. Filtering available to isolate specific networks (KiwiSDR/OpenWebRX/WebSDR/FM-DX) on the map or regions (e.g., "USA Only") in the server list. 
