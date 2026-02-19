@@ -2,7 +2,7 @@
 
 ### **The Universal iOS SDR Client** 
 
-> Listen to anything, from anywhere. Echo connects you to 2000+ community-hosted radio receivers spanning every continent. Tune into shortwave broadcasts from Asia, aviation communications over the Atlantic, mysterious numbers stations, or distant FM stations from hundreds of miles away, all from your iPhone.
+> Listen to anything, from anywhere. Echo connects you to 2000+ community-hosted radio receivers spanning every continent. Tune into shortwave broadcasts from Asia, aviation communications over the Atlantic, mysterious numbers stations, or distant FM stations from hundreds of miles away, all from your iPhone. **KiwiSDR, OpenWebRX, WebSDR, and FM-DX** provide global reception capabilities via their web interfaces. Echo builds upon this by wrapping the reliable web stream in a native iOS environment, enabling features that are only possible with a dedicated app.
 
 ### As seen on [RTL-SDR.com](https://www.rtl-sdr.com/echo-ios-kiwisdr-openwebrx-app-now-in-beta-testing/)
 > First described as a **"really cool looking app"** [(Jan '26)](https://www.rtl-sdr.com/echo-a-native-ios-client-for-kiwisdr-openwebrx/), Echo is now recognized as being **"designed to make it easy to search for and view public receivers on iOS"** [(Feb '26)](https://www.rtl-sdr.com/echo-ios-kiwisdr-openwebrx-app-now-in-beta-testing/).
@@ -13,10 +13,6 @@
 * **Missed the list?** The free waitlist is now **closed**. You can still get immediate access to the beta by supporting the project:
 
 [![Get Beta Access](https://img.shields.io/badge/Get_Beta_Access-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/EchoSDR)
-
-## A native iOS command center for the KiwiSDR, OpenWebRX, WebSDR, and FM-DX networks.
-
-KiwiSDR, OpenWebRX, WebSDR, and FM-DX provide global reception capabilities via their web interfaces. Echo builds upon this by wrapping the reliable web stream in a native iOS environment, enabling features that are only possible with a dedicated app.
 
 ## Features
 
