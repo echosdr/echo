@@ -37,16 +37,9 @@
 - **UI/Logic:** 100% Native SwiftUI (Maps, Database, Settings, Transcription).
 - **Privacy:** Zero tracking. No analytics, no proprietary servers, no Ad IDs. All database entries (favorites/logs) are stored locally on-device or in your personal, encrypted iCloud container.
 
-
 ## Requirements
 
 iOS 17+, iPhone/iPad/macOS (Apple Silicon)
-
-## Status
-
-**Current Version:** Beta
-
-**TestFlight:** Beta Ongoing
 
 ## Acknowledgments
 Echo is an independent client and is not officially affiliated with the KiwiSDR, OpenWebRX, WebSDR, or FMDX projects.
