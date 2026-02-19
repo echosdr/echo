@@ -4,8 +4,8 @@
 
 > Listen to anything, from anywhere. Echo connects you to 2000+ community-hosted radio receivers spanning every continent. Tune into shortwave broadcasts from Asia, aviation communications over the Atlantic, mysterious numbers stations, or distant FM stations from hundreds of miles away, all from your iPhone.
 
-> **Featured on [RTL-SDR.com](https://www.rtl-sdr.com/echo-a-native-ios-client-for-kiwisdr-openwebrx/)** — _"Really cool looking app"_
-
+### As seen on [RTL-SDR.com](https://www.rtl-sdr.com/echo-ios-kiwisdr-openwebrx-app-now-in-beta-testing/)
+> First described as a **"really cool looking app"** [(Jan '26)](https://www.rtl-sdr.com/echo-a-native-ios-client-for-kiwisdr-openwebrx/), Echo is now recognized as being **"designed to make it easy to search for and view public receivers on iOS"** [(Feb '26)](https://www.rtl-sdr.com/echo-ios-kiwisdr-openwebrx-app-now-in-beta-testing/).
 ### Beta Access
 **Status:** The TestFlight Beta is **LIVE**.
 
