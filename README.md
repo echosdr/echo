@@ -25,7 +25,7 @@
 - **Custom Servers:** Add your own private or unlisted servers by selecting the server type (KiwiSDR, OpenWebRX, WebSDR, or FM-DX) and entering the URL.
 - **Smart Manual Tuner:** Intelligently detects your input format (kHz vs. MHz) to instantly tune the correct band. Simply type "101.1" for FM or "15000" for Shortwave without ever needing to toggle a unit switch.
 - **Live Signal Metrics:** Real-time SNR (Signal-to-Noise) sorting to instantly identify the strongest receivers in the list.
-- **Offline Frequency Library:** A searchable, local database of 10,000+ global frequencies.
+- **Offline Frequency Library:** A searchable, local EIBI database of 11,000+ global shortwave and utility frequencies.
 - **Station Logging:** Integrated database for saving your favorite frequencies & station details.
 
 ## Roadmap (Coming Soon)
