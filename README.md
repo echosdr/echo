@@ -54,10 +54,11 @@ Special thanks to these developers for building the incredible platforms that ma
 ---
 
 ### Screenshots
-<img width="645" height="1398" alt="IMG_5822" src="https://github.com/user-attachments/assets/08aee867-5547-4084-ae49-ad2664cab08d" />
-<img width="645" height="1398" alt="IMG_5823" src="https://github.com/user-attachments/assets/ca8f2b40-b373-4ef7-a361-3eabbcfc76ea" />
+<img width="645" height="1398" alt="IMG_6626" src="https://github.com/user-attachments/assets/bde68d55-59fc-4eab-81b1-c40575184b63" />
+<img width="645" height="1398" alt="IMG_6627" src="https://github.com/user-attachments/assets/e9d799d2-a6b9-4ce0-be3d-5c451354f148" />
 <img width="1366" height="1024" alt="IMG_1267" src="https://github.com/user-attachments/assets/86cd775b-c792-4cdd-a81c-a20b4f20eb2b" />
-<img width="645" height="1398" alt="IMG_5824" src="https://github.com/user-attachments/assets/c91713fe-9b9e-4d33-b99c-6e55f0705973" />
+<img width="645" height="1398" alt="IMG_6631" src="https://github.com/user-attachments/assets/3b303c09-0cec-44b7-8465-c550be3975a5" />
+<img width="645" height="1398" alt="IMG_6628" src="https://github.com/user-attachments/assets/3595ac34-4b7b-4eb3-97c7-de51949b6ce2" />
 <img width="645" height="1398" alt="IMG_5281" src="https://github.com/user-attachments/assets/2bb1697a-fc81-420e-9946-a2d6cf8012af" />
 
 
