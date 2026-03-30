@@ -13,7 +13,7 @@ Want to support development while we wait for approval?
 
 [![Support Echo](https://img.shields.io/badge/Support_Echo-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/EchoSDR)
 
-* **Launch Day:** Coming very soon. This page will be updated with the official App Store link the moment it goes live!
+**Launch Day:** Coming very soon. This page will be updated with the official App Store link the moment it goes live!
 
 ## Features
 
