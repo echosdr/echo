@@ -6,13 +6,13 @@
 
 ### As seen on [RTL-SDR.com](https://www.rtl-sdr.com/echo-ios-kiwisdr-openwebrx-app-now-in-beta-testing/)
 > First described as a **"really cool looking app"** [(Jan '26)](https://www.rtl-sdr.com/echo-a-native-ios-client-for-kiwisdr-openwebrx/), Echo is now recognized as being **"designed to make it easy to search for and view public receivers on iOS"** [(Feb '26)](https://www.rtl-sdr.com/echo-ios-kiwisdr-openwebrx-app-now-in-beta-testing/).
-### Beta Access
-**Status:** The TestFlight Beta is **LIVE**.
+### App Store Release
+**Status:** Echo has been officially submitted to Apple and is pending release!
 
-* **Joined the waitlist?** All invites have been sent. Check your inbox!
-* **Missed the list?** The free waitlist is now **closed**. You can still get immediate access to the beta by supporting the project:
+Want to support development while we wait for approval?
+[![Support Echo](https://img.shields.io/badge/Support_Echo-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/EchoSDR)
 
-[![Get Beta Access](https://img.shields.io/badge/Get_Beta_Access-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/EchoSDR)
+* **Launch Day:** Coming very soon. This page will be updated with the official App Store link the moment it goes live!
 
 ## Features
 
