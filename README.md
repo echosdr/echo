@@ -2,18 +2,23 @@
 
 ### **The Universal iOS SDR Client** 
 
+### 🚀 Now Available on the App Store
+**Status:** Echo is officially live! You can now download the universal SDR client for iOS.
+
+[![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/echo-global-sdr-receiver/id6759174390)
+
+
 > Listen to anything, from anywhere. Echo connects you to 2000+ community-hosted radio receivers spanning every continent. Tune into shortwave broadcasts from Asia, aviation communications over the Atlantic, mysterious numbers stations, or distant FM stations from hundreds of miles away, all from your iPhone. **KiwiSDR, OpenWebRX, WebSDR, and FM-DX** provide global reception capabilities via their web interfaces. Echo builds upon this by integrating these reliable streams into a native iOS environment, enabling features that are only possible with a dedicated app.
 
 ### As seen on [RTL-SDR.com](https://www.rtl-sdr.com/echo-ios-kiwisdr-openwebrx-app-now-in-beta-testing/)
 > First described as a **"really cool looking app"** [(Jan '26)](https://www.rtl-sdr.com/echo-a-native-ios-client-for-kiwisdr-openwebrx/), Echo is now recognized as being **"designed to make it easy to search for and view public receivers on iOS"** [(Feb '26)](https://www.rtl-sdr.com/echo-ios-kiwisdr-openwebrx-app-now-in-beta-testing/).
-### App Store Release
-**Status:** Echo has been officially submitted to Apple and is pending release!
 
-Want to support development while we wait for approval?
+---
+
+### Support the Project
+If you enjoy using Echo and want to help cover developer fees and future features, consider supporting the project:
 
 [![Support Echo](https://img.shields.io/badge/Support_Echo-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/EchoSDR)
-
-**Launch Day:** Coming very soon. This page will be updated with the official App Store link the moment it goes live!
 
 ## Features
 
