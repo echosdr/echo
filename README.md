@@ -13,6 +13,9 @@
 ### As seen on [RTL-SDR.com](https://www.rtl-sdr.com/echo-ios-kiwisdr-openwebrx-app-now-in-beta-testing/)
 > First described as a **"really cool looking app"** [(Jan '26)](https://www.rtl-sdr.com/echo-a-native-ios-client-for-kiwisdr-openwebrx/), Echo is now recognized as being **"designed to make it easy to search for and view public receivers on iOS"** [(Feb '26)](https://www.rtl-sdr.com/echo-ios-kiwisdr-openwebrx-app-now-in-beta-testing/).
 
+### As seen on [SWLing Post](https://swling.com/blog/2026/04/scott-recommends-the-new-echo-global-sdr-ios-app/)
+> Praised as a **"very capable listening companion"** that is **"very stable for long listening sessions,"** Echo leverages its native iOS development to feature **"full background audio for uninterrupted listening"** [(Apr '26)](https://swling.com/blog/2026/04/scott-recommends-the-new-echo-global-sdr-ios-app/).
+
 ---
 
 ### Support the Project
