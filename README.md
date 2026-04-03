@@ -10,8 +10,9 @@
 
 > Listen to anything, from anywhere. Echo connects you to 2000+ community-hosted radio receivers spanning every continent. Tune into shortwave broadcasts from Asia, aviation communications over the Atlantic, mysterious numbers stations, or distant FM stations from hundreds of miles away, all from your iPhone. **KiwiSDR, OpenWebRX, WebSDR, and FM-DX** provide global reception capabilities via their web interfaces. Echo builds upon this by integrating these reliable streams into a native iOS environment, enabling features that are only possible with a dedicated app.
 
-### As seen on [RTL-SDR.com](https://www.rtl-sdr.com/echo-ios-kiwisdr-openwebrx-app-now-in-beta-testing/)
-> First described as a **"really cool looking app"** [(Jan '26)](https://www.rtl-sdr.com/echo-a-native-ios-client-for-kiwisdr-openwebrx/), Echo is now recognized as being **"designed to make it easy to search for and view public receivers on iOS"** [(Feb '26)](https://www.rtl-sdr.com/echo-ios-kiwisdr-openwebrx-app-now-in-beta-testing/).
+### As seen on [RTL-SDR.com](https://www.rtl-sdr.com/echo-kiwisdr-openwebrx-websdr-and-fm-dx-ios-browser-app-now-officially-released/)
+> First described as a **"really cool looking app"** [(Jan '26)](https://www.rtl-sdr.com/echo-a-native-ios-client-for-kiwisdr-openwebrx/), Echo is recognized as being **"designed to make it easy to search for and view public receivers on iOS"** [(Feb '26)](https://www.rtl-sdr.com/echo-ios-kiwisdr-openwebrx-app-now-in-beta-testing/). RTL-SDR covered Echo's official launch on the App Store [(Apr '26)](https://www.rtl-sdr.com/echo-kiwisdr-openwebrx-websdr-and-fm-dx-ios-browser-app-now-officially-released/).
+
 
 ### As seen on [SWLing Post](https://swling.com/blog/2026/04/scott-recommends-the-new-echo-global-sdr-ios-app/)
 > Praised as a **"very capable listening companion"** that is **"very stable for long listening sessions,"** Echo leverages its native iOS development to feature **"full background audio for uninterrupted listening"** [(Apr '26)](https://swling.com/blog/2026/04/scott-recommends-the-new-echo-global-sdr-ios-app/).
