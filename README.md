@@ -19,7 +19,7 @@
 
 ---
 
-### Support the Project
+### Support Development 
 If you enjoy using Echo and want to help cover developer fees and future features, consider supporting the project:
 
 [![Support Echo](https://img.shields.io/badge/Support_Echo-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/EchoSDR)
