@@ -10,6 +10,9 @@
 
 > Listen to anything, from anywhere. Echo connects you to 2000+ community-hosted radio receivers spanning every continent. Tune into shortwave broadcasts from Asia, aviation communications over the Atlantic, mysterious numbers stations, or distant FM stations from hundreds of miles away, all from your iPhone. **KiwiSDR, OpenWebRX, WebSDR, and FM-DX** provide global reception capabilities via their web interfaces. Echo builds upon this by integrating these reliable streams into a native iOS environment, enabling features that are only possible with a dedicated app.
 
+### As seen on [Radio World](https://www.radioworld.com/tech-and-gear/nicks-signal-spot/echo-app-brings-the-power-of-sdrs-into-your-pocket)
+> Praised as a standout mobile solution for the community, Echo features a **"thoughtfully designed interface"** that reviewer Nick Langan has **"loved using."** *Radio World* celebrates the app for making it easier to search and listen to public receivers straight from your iPhone or iPad, noting there has **"never been a better time to engage in the hobby"** [(Apr '26)](https://www.radioworld.com/tech-and-gear/nicks-signal-spot/echo-app-brings-the-power-of-sdrs-into-your-pocket).
+
 ### As seen on [RTL-SDR.com](https://www.rtl-sdr.com/echo-kiwisdr-openwebrx-websdr-and-fm-dx-ios-browser-app-now-officially-released/)
 > First described as a **"really cool looking app"** [(Jan '26)](https://www.rtl-sdr.com/echo-a-native-ios-client-for-kiwisdr-openwebrx/), Echo is recognized as being **"designed to make it easy to search for and view public receivers on iOS"** [(Feb '26)](https://www.rtl-sdr.com/echo-ios-kiwisdr-openwebrx-app-now-in-beta-testing/). RTL-SDR covered Echo's official launch on the App Store [(Apr '26)](https://www.rtl-sdr.com/echo-kiwisdr-openwebrx-websdr-and-fm-dx-ios-browser-app-now-officially-released/).
 
