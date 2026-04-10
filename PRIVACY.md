@@ -1,6 +1,6 @@
 # Privacy Policy for Echo
 
-**Last Updated:** February 8th, 2026
+**Last Updated:** April 10th, 2026
 
 I (Mark Garrison Jr.) built **Echo** to listen to radio signals, not to listen to you.
 
@@ -18,7 +18,7 @@ All your Favorites, History, and settings are stored locally on your device.
 - **Coming Soon**: A future update may add optional iCloud sync for favorites and settings. If enabled, that data would be stored in your personal, encrypted iCloud container—never on Echo servers. You will always be able to keep everything local-only.
 
 ## 3. Connections to Radio Servers
-When you connect to a KiwiSDR or OpenWebRX or WebSDR or FM-DX server, your device makes a direct network connection to that server.
+When you connect to a KiwiSDR or OpenWebRX or WebSDR or FM-DX Webserver, your device makes a direct network connection to that server.
 - **IP Addresses:** The server owner may see your IP address in their connection logs. This is standard for how the internet works.
 - **Echo's Role:** Echo acts only as a client (a browser). It does not send your identity or personal data to these servers, only the commands needed to tune the radio.
 
