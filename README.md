@@ -8,7 +8,7 @@
 [![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/echo-global-sdr-receiver/id6759174390)
 
 
-> Listen to anything, from anywhere. Echo connects you to 2000+ community-hosted radio receivers spanning every continent. Tune into shortwave broadcasts from Asia, aviation communications over the Atlantic, mysterious numbers stations, or distant FM stations from hundreds of miles away, all from your iPhone. **KiwiSDR, OpenWebRX, WebSDR, and FM-DX** provide global reception capabilities via their web interfaces. Echo builds upon this by integrating these reliable streams into a native iOS environment, enabling features that are only possible with a dedicated app.
+> Listen to anything, from anywhere. Echo connects you to 2000+ community-hosted radio receivers spanning every continent. Tune into shortwave broadcasts from Asia, aviation communications over the Atlantic, mysterious numbers stations, or distant FM stations from hundreds of miles away, all from your iPhone. **KiwiSDR, OpenWebRX, WebSDR, and FM-DX Webserver** provide global reception capabilities via their web interfaces. Echo builds upon this by integrating these reliable streams into a native iOS environment, enabling features that are only possible with a dedicated app.
 
 ### As seen on [Radio World](https://www.radioworld.com/tech-and-gear/nicks-signal-spot/echo-app-brings-the-power-of-sdrs-into-your-pocket)
 > Praised as a standout mobile solution for the community, Echo features a **"thoughtfully designed interface"** that reviewer Nick Langan has **"loved using."** *Radio World* celebrates the app for making it easier to search and listen to public receivers straight from your iPhone or iPad, noting there has **"never been a better time to engage in the hobby"** [(Apr '26)](https://www.radioworld.com/tech-and-gear/nicks-signal-spot/echo-app-brings-the-power-of-sdrs-into-your-pocket).
@@ -30,12 +30,12 @@ If you enjoy using Echo and want to help cover developer fees and future feature
 ## Features
 
 - **Background Audio:** Maintains connection & audio playback even when the device is locked or multitasking.
-- **Audio Engine Passthrough:** Echo interfaces directly with the core KiwiSDR, OpenWebRX, WebSDR, and FM-DX signal processors for waterfall rendering and audio decoding. This ensures 100% compatibility with all server-side modes, plugins, and extensions.
+- **Audio Engine Passthrough:** Echo interfaces directly with the core KiwiSDR, OpenWebRX, WebSDR, and FM-DX Webserver signal processors for waterfall rendering and audio decoding. This ensures 100% compatibility with all server-side modes, plugins, and extensions.
 - **Intelligent Profile Switching:** When tuning outside an OpenWebRX server's current frequency range, Echo automatically switches to the correct profile and displays visual "Switching Band..." feedback during the transition.
 - **Scanner Mode:** Automatically cycles through a list of stations or presets at a set interval.
-- **Global Map:** Native MapKit integration to visually explore the station network. Filtering available to isolate specific networks (KiwiSDR/OpenWebRX/WebSDR/FM-DX) on the map or regions (e.g., "USA Only") in the server list. 
+- **Global Map:** Native MapKit integration to visually explore the station network. Filtering available to isolate specific networks (KiwiSDR/OpenWebRX/WebSDR/FM-DX Webserver) on the map or regions (e.g., "USA Only") in the server list. 
 - **Server Search:** Instantly search 2,000+ SDR receivers by name or location with dynamic result counts.
-- **Custom Servers:** Add your own private or unlisted servers by selecting the server type (KiwiSDR, OpenWebRX, WebSDR, or FM-DX) and entering the URL.
+- **Custom Servers:** Add your own private or unlisted servers by selecting the server type (KiwiSDR, OpenWebRX, WebSDR, or FM-DX Webserver) and entering the URL.
 - **Smart Manual Tuner:** Intelligently detects your input format (kHz vs. MHz) to instantly tune the correct band. Simply type "101.1" for FM or "15000" for Shortwave without ever needing to toggle a unit switch.
 - **Live Signal Metrics:** Real-time SNR (Signal-to-Noise) sorting to instantly identify the strongest receivers in the list.
 - **Offline Frequency Library:** A searchable, local EIBI database of 11,000+ global shortwave and utility frequencies.
