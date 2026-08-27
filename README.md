@@ -37,8 +37,7 @@ If you enjoy using Echo and want to help cover developer fees and future feature
 - **Server Search:** Instantly search 2,000+ SDR receivers by name or location with dynamic result counts.
 - **Custom Servers:** Add your own private or unlisted servers by selecting the server type (KiwiSDR, OpenWebRX, WebSDR, or FM-DX Webserver) and entering the URL.
 - **Smart Manual Tuner:** Intelligently detects your input format (kHz vs. MHz) to instantly tune the correct band. Simply type "101.1" for FM or "15000" for Shortwave without ever needing to toggle a unit switch.
-- **Live Signal Metrics:** Real-time SNR (Signal-to-Noise) sorting to instantly identify the strongest receivers in the list.
-- **Offline Frequency Library:** A searchable, local EIBI database of 11,000+ global shortwave and utility frequencies.
+- **Offline Frequency Library:** A searchable, local EIBI database of 9000+ global shortwave and utility frequencies.
 - **Station Logging:** Integrated database for saving your favorite frequencies & station details.
 
 ## Roadmap (Coming Soon)
