@@ -40,15 +40,27 @@ If you enjoy using Echo and want to help cover developer fees and future feature
 - **Offline Frequency Library:** A searchable, local EIBI database of 9000+ global shortwave and utility frequencies.
 - **Station Logging:** Integrated database for saving your favorite frequencies & station details.
 
-## Roadmap (Coming Soon)
-- **Smart Interpreter:** Live speech-to-text transcription and real-time language translation. 
-- **Smart Recording:** One-tap audio capture with built-in speech-to-text transcription/translation to automatically document and identify station content. 
+## Echo Pro
+
+Echo Pro expands what you can do with the signals you hear, adding recording, live transcription, saved-audio transcription, translation, and iCloud sync directly inside Echo.
+
+- **Live Transcription:** Follow spoken radio audio as text in real time while continuing to listen and use the receiver.
+- **Smart Recording:** Record audio directly from the receiver and keep each recording organized with its station, frequency, mode, date, and duration.
+- **Saved-Audio Transcription:** Turn recordings into timestamped transcripts that can be reviewed, copied, saved, or shared later.
+- **On-Device Translation:** Detect supported languages and translate transcripts into English directly on-device.
+- **Recording Search:** Search your saved recordings and quickly return to past stations, frequencies, and broadcasts.
+- **iCloud Sync:** Keep recordings, audio, and associated information synchronized across your Apple devices with iCloud.
+- **On-Device Processing:** Transcription, language detection, and translation are processed directly on your device.
+
+Echo Pro is an optional subscription. The core Echo SDR experience remains available without Pro. 
 
 ## Technical Implementation
 
 - **Native UI and Mapping:** 100% SwiftUI interface paired with a highly optimized MapKit clustering engine, capable of rendering 2000+ global server nodes smoothly without the lag of traditional web wrappers.
 - **Custom Audio Bridge:** A specialized background audio implementation that intercepts and processes complex SDR streams, enabling true lock-screen controls and uninterrupted iOS background playback.
-- **Privacy:** Zero tracking. No analytics, no proprietary servers, no Ad IDs. All database entries (favorites/logs) are stored locally on-device or in your personal, encrypted iCloud container.
+- **On-Device Speech Processing:** Live transcription, saved-audio transcription, language detection, and translation are integrated directly into Echo and processed on-device.
+- **iCloud Sync:** Echo Pro can synchronize recording metadata and the actual recorded audio between your Apple devices using iCloud.
+- **Privacy:** Zero tracking. No analytics. No Ad IDs. Transcription, language detection, and translation happen on-device. Favorites, logs, recordings, and other synced Echo data remain on your devices or in your personal iCloud container.
 
 ## Requirements
 
@@ -67,12 +79,18 @@ Special thanks to these developers for building the incredible platforms that ma
 
 ### Screenshots
 
-<img width="1290" height="2796" alt="1" src="https://github.com/user-attachments/assets/ee549205-2116-4631-81f4-0d8ea0c1a0dd" />
-<img width="1290" height="2796" alt="2" src="https://github.com/user-attachments/assets/b141202a-aa50-4379-90da-542b073753a5" />
-<img width="1290" height="2796" alt="4 copy" src="https://github.com/user-attachments/assets/8aabcebc-a3a7-4f1b-ad41-58c682496a66" />
-<img width="1290" height="2796" alt="4" src="https://github.com/user-attachments/assets/d9d00f48-ad10-4ef6-9ff6-dcd5d47537ed" />
-<img width="1290" height="2796" alt="3" src="https://github.com/user-attachments/assets/7b8dc28b-b1f2-4a3f-b34a-0f95b2eb55a9" />
-<img width="1290" height="2796" alt="5" src="https://github.com/user-attachments/assets/f64ce5db-b307-49d4-8e91-25be548f05a6" />
+<img width="1290" height="2796" alt="Sideways" src="https://github.com/user-attachments/assets/b3a98e0b-be92-4ba8-8851-dde6315af24b" />
+<img width="1290" height="2796" alt="Home" src="https://github.com/user-attachments/assets/53a3f1b7-5b60-46b4-802d-ea8eb021e365" />
+<img width="1290" height="2796" alt="Scan" src="https://github.com/user-attachments/assets/62e54e17-d362-481f-8eb0-c2e7ea8d3295" />
+<img width="1290" height="2796" alt="Capture" src="https://github.com/user-attachments/assets/8543b4b5-41b9-4b32-893a-fc9397b5a477" />
+<img width="1290" height="2796" alt="Read" src="https://github.com/user-attachments/assets/e36ef6be-5d58-4b55-bb87-5714f2292116" />
+<img width="1290" height="2796" alt="Translate" src="https://github.com/user-attachments/assets/5099a99a-eef2-4606-bc5e-c070979d183e" />
+
+
+
+
+
+
 
 #
 
