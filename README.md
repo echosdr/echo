@@ -84,7 +84,7 @@ Special thanks to these developers for building the incredible platforms that ma
 <img width="1290" height="2796" alt="Scan" src="https://github.com/user-attachments/assets/62e54e17-d362-481f-8eb0-c2e7ea8d3295" />
 <img width="1290" height="2796" alt="Capture" src="https://github.com/user-attachments/assets/8543b4b5-41b9-4b32-893a-fc9397b5a477" />
 <img width="1290" height="2796" alt="Read" src="https://github.com/user-attachments/assets/e36ef6be-5d58-4b55-bb87-5714f2292116" />
-<img width="1290" height="2796" alt="Translate" src="https://github.com/user-attachments/assets/5099a99a-eef2-4606-bc5e-c070979d183e" />
+<img width="1284" height="2778" alt="5 2" src="https://github.com/user-attachments/assets/5073e891-bd74-4b4e-abd1-1f50bb50b942" />
 
 
 
